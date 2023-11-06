@@ -1,5 +1,5 @@
 # EX 8: Simulating deadlock scenario
-## Date: 
+## Date: 22.9.2023
 ## AIM: 
 To simulate a scenario of deadlock in concurrent execution of transactions.
 ## PROCEDURE:
